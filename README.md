@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @theis-js
+- 👋 Hi, I’m Theis
 - 👀 I’m interested in Web devolpment, especially in Front- and Back end development.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React and Next.js
 - ⚡ Fun fact: I know the languages: (HTML, CSS) & JavaScript
 
 <!---
