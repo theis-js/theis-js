@@ -19,6 +19,8 @@ I'm Theis, from the beautiful Ruhr area in North Rhine-Westphalia in Germany and
 
 Outside of school, I enjoy working with technology, especially servers and programming. I especially like working on fullstack-web-applications. I have presented them on my portfolio: https://portfolio-theis.de
 
+I don't use GitHub that much, instead I use my self-hosted Gitea. You can visit it under: https://git.the1s.de/explore
+
 I also have hosted various applications on my servers. You can see and visit all of them on my status site: https://status.the1s.de
 
 If you have any questions or just want to write, feel free to write me...
